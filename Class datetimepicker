@@ -10,3 +10,7 @@
           ▲ td.day.active
           ▲ td.day.weekend
           ▲ td.day.disabled.weekend
+
+> Example: 
+
+    • setTimeout(() => { console.log($(".bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr")) }, 5000)
