@@ -19,5 +19,5 @@ For get elements of the calendar "Datetimepicker" MomentJS
 
     • setTimeout(() => { console.log($(".bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr")) }, 5000)
 
-    ![ScreenShot](https://github.com/user-attachments/assets/ac001173-ea7c-4cc5-9c02-000264a06233)
+    ![ScreenShot](datetimepicker_filter_days.png)
     
