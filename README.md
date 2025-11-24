@@ -6,7 +6,7 @@ For get elements of the calendar "Datetimepicker" MomentJS
 
    ```css
 
-  > .bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr 
+     .bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr 
 
       •  Children:
 
@@ -17,6 +17,8 @@ For get elements of the calendar "Datetimepicker" MomentJS
           ▲ td.day.weekend
           ▲ td.day.disabled.weekend
 
+   ```
+
 > Example:     
 
   ```javascript
@@ -25,5 +27,7 @@ For get elements of the calendar "Datetimepicker" MomentJS
       console.log($(".bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr")) 
       }, 5000
     )
+
+  ```
 
 [img](https://github.com/consolelog01/Class-Datetimepicker-Moment-JS-y-Bootstrap-CSS/blob/585afd3818f3a4167aa33b88f0bf2db2eb40a1ee/datetimepicker_filter_days.png)
