@@ -1,8 +1,8 @@
-For get elements of the calendar "Datetimepicker" MomentJS 
+# For get elements of the calendar "Datetimepicker" MomentJS 
 
 -------------------------------------------------------------------------------------------------------------------
 
-*** Class for get days checked:
+## Class for get days checked:
 
    ```css
 
@@ -18,16 +18,16 @@ For get elements of the calendar "Datetimepicker" MomentJS
           td.day.disabled.weekend
 
    ```
-   ```
 
-> Show component datetimepicker use JS:     
+## Show component datetimepicker use JS:     
 
-  ```
   ```javascript
   
     setTimeout(() => { 
       console.log($(".bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr")) 
       }, 5000
     )
+
+ ```
 
 https://github.com/consolelog01/Class-Datetimepicker-Moment-JS-and-Bootstrap-CSS/blob/7b472602e7ff3e1adcd540dbdc0bb0242cff0820/datetimepicker_filter_days.png
