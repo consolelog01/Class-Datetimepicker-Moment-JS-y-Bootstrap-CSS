@@ -4,6 +4,8 @@ For get elements of the calendar "Datetimepicker" MomentJS
 
 *** Class for get days checked:
 
+   ```css
+
   > .bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr 
 
       •  Children:
