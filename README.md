@@ -17,13 +17,11 @@ For get elements of the calendar "Datetimepicker" MomentJS
 
 > Example: 
 
+  https://github.com/consolelog01/Class-Datetimepicker-Moment-JS-y-Bootstrap-CSS/blob/585afd3818f3a4167aa33b88f0bf2db2eb40a1ee/datetimepicker_filter_days.png    
+
   ```javascript
   
     setTimeout(() => { 
       console.log($(".bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr")) 
       }, 5000
     )
-
-  ```
-https://github.com/consolelog01/Class-Datetimepicker-Moment-JS-y-Bootstrap-CSS/blob/585afd3818f3a4167aa33b88f0bf2db2eb40a1ee/datetimepicker_filter_days.png    
-
