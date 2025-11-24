@@ -8,7 +8,7 @@
 
      .bootstrap-datetimepicker-widget ul.list-unstyled li.show div.datepicker div.datepicker-days table tbody tr 
 
-      *•  Childrens:*
+      *Childrens:*
 
           td.day.old.disabled
           td.day.old.disabled
